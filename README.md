@@ -7,4 +7,4 @@ Course Schedules
 ------------
 
 More OSC3D Courses can be found `here <https://osc3d.com/maker-space-courses>`__.
-[More OSC3D Courses can be found]: https://osc3d.com/maker-space-courses
+More OSC3D Courses can be found [here](https://osc3d.com/maker-space-courses)
