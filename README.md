@@ -6,4 +6,4 @@ This repo is the primary location for course content related to [Open Source Cla
 Course Schedules
 ------------
 
-More OSC 3D Courses can be found [here](https://osc3d.com/maker-space-courses).
+More OSC 3D Courses can be found [here](https://osc3d.com/maker-space-classes).
