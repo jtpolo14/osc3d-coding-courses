@@ -3,7 +3,7 @@
 --------------------
 Description
 -------------------- 
-	Intro course to raspberry pi provides a high level understanding of the tools required to code on the device.
+Intro course to raspberry pi provides a high level understanding of the tools required to code on the device.
 
 --------------------
 Content
@@ -22,12 +22,12 @@ Terminology
 
 Lab
 * Create a Folder
-	* on desktop create 'my folder'
-	* navigate to 'my folder'
+	* On desktop create 'my folder'
+	* Navigate to 'my folder'
 * Create a File
 	* Open notepad, create hello.py; single row with your name; save; exit
 * Python
-	* hello world
+	* Hello world - first program
 	* Turtle - create simple shapes
 	* https://docs.python.org/3.3/library/turtle.html?highlight=turtle#module-turtle
 	* https://projects.raspberrypi.org/en/projects/turtle-snowflakes
