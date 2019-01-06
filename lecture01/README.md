@@ -25,9 +25,12 @@ Lab
 	* On desktop create 'my folder'
 	* Navigate to 'my folder'
 * Create a File
-	* Open notepad, create hello.py; single row with your name; save; exit
+	* Open text editor
+	* Create a python file named hello.py
+	* Type the following: print('Hello World')
+	* Save
 * Python
-	* Hello world - first program
+	* Hello world - running your first program
 	* Turtle - create simple shapes
 	* https://docs.python.org/3.3/library/turtle.html?highlight=turtle#module-turtle
 	* https://projects.raspberrypi.org/en/projects/turtle-snowflakes
