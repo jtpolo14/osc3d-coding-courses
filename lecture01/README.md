@@ -31,5 +31,7 @@ Lab
 	* Save the file inside the 'mypi' folder created in the previous step
 * Running your first Python program
 	* Open a terminal
-	* type the following command and press Enter::
-    $ python ~/Desktop/mypi/hello.py
+	* type the following command and press Enter:
+```
+		$ python ~/Desktop/mypi/hello.py
+```
