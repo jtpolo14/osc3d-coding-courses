@@ -14,9 +14,9 @@ Terminology
 * Data - collection of numbers or text characters or input/output 
 * File - computer object to store data
 * Folder - computer object to store files
-* Program - a data file with specific computer code instructions that tells a computer how to store, change, and present data
+* Program - code that tells a computer how to store, change, and present data
 * Programming Language - a set a tools/rules used to write computer code instructions
-* Coding - the process of designing, writing, testing, debugging / troubleshooting, and maintaining the source code of computer programs
+* Coding - writing and testing the code of computer programs
 * Browsers - Chrome, Firefox, Safari, IE(outdated)
 * Google - search tool
 
@@ -33,7 +33,7 @@ Lab
 	* Open a terminal
 	* type the following command and press Enter:
 ```
-	python ~/Desktop/mypi/hello.py
+python ~/Desktop/mypi/hello.py
 ```
 
 --------------------
