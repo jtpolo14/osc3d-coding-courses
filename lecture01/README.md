@@ -26,12 +26,26 @@ Lab
 	* Navigate to 'mypi'
 * Create a File
 	* Open text editor
-	* Create a python file named hello.py
+	* Create a python file named hello.py (must end with '.py')
 	* Type the following: print('Hello World')
 	* Save the file inside the 'mypi' folder created in the previous step
 * Running your first Python program
 	* Open a terminal
 	* type the following command and press Enter:
 ```
-		$ python ~/Desktop/mypi/hello.py
+	python ~/Desktop/mypi/hello.py
 ```
+
+--------------------
+Help
+-------------------- 
+
+If you run into issues with the above lab, here are some helpful tips to try:
+* Make sure the python file is saved with the '.py' file extension
+* Make sure the hello.py file is save inside the correct folder, in this example the folder name is mypi
+* Be sure to type the terminal command exactly as shown, then press Enter
+
+Other resources:
+* https://www.learnpython.org/en/Hello,_World!
+* https://www.programiz.com/python-programming/examples/hello-world
+* https://stackoverflow.com/questions/1077347/hello-world-in-python
