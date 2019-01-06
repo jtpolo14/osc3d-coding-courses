@@ -22,15 +22,14 @@ Terminology
 
 Lab
 * Create a Folder
-	* On desktop create 'my folder'
-	* Navigate to 'my folder'
+	* On desktop create 'mypi'
+	* Navigate to 'mypi'
 * Create a File
 	* Open text editor
 	* Create a python file named hello.py
 	* Type the following: print('Hello World')
-	* Save
-* Python
-	* Hello world - running your first program
-	* Turtle - create simple shapes
-	* https://docs.python.org/3.3/library/turtle.html?highlight=turtle#module-turtle
-	* https://projects.raspberrypi.org/en/projects/turtle-snowflakes
+	* Save the file inside the 'mypi' folder created in the previous step
+* Running your first Python program
+	* Open a terminal
+	* type the following command and press Enter::
+    $ python ~/Desktop/mypi/hello.py
