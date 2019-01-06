@@ -34,13 +34,14 @@ Step(s)
 * Create a File
 	* Open text editor
 	* Create a python file named hello.py (must end with '.py')
-	* Type the following: print('Hello World')
+	* Type the following: print('Hello pi')
 	* Save the file inside the 'mypi' folder created in the previous step
 * Running your first Python program
 	* Open a terminal
 	* type the following command and press Enter:
 ```
 python ~/Desktop/mypi/hello.py
+Hello pi
 ```
 
 --------------------
