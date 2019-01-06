@@ -40,7 +40,7 @@ Step(s)
 	* Open a terminal
 	* type the following command and press Enter:
 ```
-python ~/Desktop/mypi/hello.py
+python3 ~/Desktop/mypi/hello.py
 Hello pi
 ```
 
