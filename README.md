@@ -11,4 +11,5 @@ More OSC 3D Courses can be found [here](https://osc3d.com/maker-space-classes).
 ------------
 Future Courses
 ------------
+* [Scratch](https://www.raspberrypi.org/documentation/usage/scratch/)
 * [Raspberry Pi Sense HAT Emulator](https://opensource.com/life/16/9/coding-raspberry-pi-web-emulator)

@@ -1,4 +1,4 @@
-# Lecture 1 - Intro to Coding
+# Lecture 01 - Intro to Coding
 
 --------------------
 Description
@@ -20,7 +20,14 @@ Terminology
 * Browsers - Chrome, Firefox, Safari, IE(outdated)
 * Google - search tool
 
+--------------------
 Lab
+-------------------- 
+
+Requirement(s)
+* Create and run a simple hello world program in python
+
+Step(s)
 * Create a Folder
 	* On desktop create 'mypi'
 	* Navigate to 'mypi'
@@ -41,11 +48,17 @@ Help
 -------------------- 
 
 If you run into issues with the above lab, here are some helpful tips to try:
+* Make sure the python version is 3.4 or above, lower versions and python 2 may not work
 * Make sure the python file is saved with the '.py' file extension
-* Make sure the hello.py file is save inside the correct folder, in this example the folder name is mypi
+* Make sure the hello.py file is saved inside the correct folder, in this example the folder name is mypi
 * Be sure to type the terminal command exactly as shown, then press Enter
 
 Other resources:
 * https://www.learnpython.org/en/Hello,_World!
 * https://www.programiz.com/python-programming/examples/hello-world
 * https://stackoverflow.com/questions/1077347/hello-world-in-python
+
+--------------------
+What's next?
+--------------------
+* [Lecture 2 - Inputs and Outputs (I/O)]()
