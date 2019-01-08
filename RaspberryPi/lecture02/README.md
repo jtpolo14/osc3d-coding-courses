@@ -58,4 +58,4 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* Coming soon!!
+* [Lecture 03 - Math](https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture03)
