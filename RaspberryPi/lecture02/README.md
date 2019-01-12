@@ -1,44 +1,36 @@
-# Lecture 02 - Inputs and Outputs (I/O)
+# Lecture 02 - Variables
 
 --------------------
 Description
 -------------------- 
 You will learn how to:
-* get input from a user
-* store the user input as data variable
-* process the data to create an output
-* print the output back to the user 
+* Create variables
+* Assign values to variables
 
 --------------------
 Content
 -------------------- 
 
 Terminology
-* Data - collection of numbers or text characters or input/output
-* Input - data provided by the user of a program 
-* Output - data created by the program
-* Variable - an object with a unique name that can store data inside a program
-* Built-in Functions - special code in python that processes inputs
+* Variable - a named location in memory
+* Assignment - the action of giving a variable a value 
 
 --------------------
 Lab
 -------------------- 
 
 Requirement(s)
-* Create a program that gets a word from the user and prints the word 5 times
+* Create a program that creates 2 variables and prints them to the screen.
 
 Step(s)
  
-* Create a python file named my_printer.py
-* Copy and paste the code provided from lecture02/printer.py
+* Create a python file named vars.py
+* Copy and paste the code provided from lecture02/vars.py
 * Run the program by, typing the following command and press Enter:
 ```
-python3 printer.py
-```
-* When prompted to 'Enter a word:', type any word and press Enter:
-```
-Enter a word: pi
-pipipipipi
+python3 vars.py
+I LOVE OSC
+Python is cool
 ```
 
 --------------------
@@ -51,11 +43,13 @@ If you run into issues with the above lab, here are some helpful tips to try:
 * Be sure to type the terminal command exactly as shown, then press Enter
 
 Other resources:
-* https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/io.html
-* https://www.hackerearth.com/practice/python/getting-started/input-and-output/tutorial/
-* https://docs.python.org/3/library/functions.html#input
+
+
+* https://www.tutorialspoint.com/python3/python_variable_types.htm
+* https://www.digitalocean.com/community/tutorials/how-to-use-variables-in-python-3
 
 --------------------
 What's next?
 --------------------
+
 * [Lecture 03 - Math](https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture03)
