@@ -4,6 +4,7 @@
 Description
 -------------------- 
 You will learn how to:
+* Use Booleans: True or False (should this be lecture04?)
 * Write conditional tests using 'if'
 * Write conditional tests using 'else'
 * Write conditional tests using 'elif'
@@ -16,14 +17,14 @@ Content
 -------------------- 
 
 Terminology
-* Conditional Test - ?
-* If statement - ?
-* Indenting - ?
-* Code Block - ? 
-* Relational Operators - ?
-	* Equal to (==) - ?
-	* Greater than (>) - ?
-	* Less than (<) - ? 
+* Conditional Test - Rules that instruct programs how to determine whether certain conditions are being met and then what to do next.
+* If statement - evaluates whether a statement is true or false, and run code only in the case that the statement is true.
+* Indenting - spaces used to align code blocks
+* Code Block - sections of code that work perform a specific task 
+* Relational Operators - operators that compare the values on either side of them and decide the relation among them
+	* Equal to (==) - If the values of two operands are equal, then the condition becomes true.
+	* Greater than (>) - If the value of left operand is greater than the value of right operand, then condition becomes true.
+	* Less than (<) - If the value of left operand is less than the value of right operand, then condition becomes true. 
 
 --------------------
 Lab
@@ -56,7 +57,10 @@ If you run into issues with the above lab, here are some helpful tips to try:
 * Be sure to type the terminal command exactly as shown, then press Enter
 
 Other resources:
-* ????
+* https://docs.python.org/3/tutorial/controlflow.html
+* https://www.tutorialspoint.com/python3/python_basic_operators.htm
+* https://www.tutorialspoint.com/python3/python_if_else.htm
+* https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-python-3-2
 
 --------------------
 What's next?
