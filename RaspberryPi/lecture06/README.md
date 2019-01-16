@@ -4,13 +4,12 @@
 Description
 -------------------- 
 You will learn how to:
-* Use Booleans: True or False (should this be lecture04?)
 * Write conditional tests using 'if'
 * Write conditional tests using 'else'
 * Write conditional tests using 'elif'
 * Use indenting to create code blocks
 * Use relational operators (equals, greater than, less than)
-* Combining and reversing tests 
+* Use logical operators (AND, OR, NOT)
 
 --------------------
 Content
@@ -25,6 +24,10 @@ Terminology
 	* Equal to (==) - If the values of two operands are equal, then the condition becomes true.
 	* Greater than (>) - If the value of left operand is greater than the value of right operand, then condition becomes true.
 	* Less than (<) - If the value of left operand is less than the value of right operand, then condition becomes true. 
+* Logical Operators - used for combining and reversing tests
+	* AND - If both the operands are true then condition becomes true.
+	* OR - If any of the two operands are non-zero then condition becomes true.
+	* NOT - Used to reverse the logical state of its operand.
 
 --------------------
 Lab
