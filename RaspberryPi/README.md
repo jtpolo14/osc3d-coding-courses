@@ -10,8 +10,8 @@ Contents
  * Lecture 03 - Math
  * Lecture 04 - Data Types
  * Lecture 05 - Input
- * Lecture 06 - Challenge: ATM
- * Lecture 07 - Flow Control
+ * Lecture 06 - Flow Control
+ * Lecture 07 - Challenge: ATM
  * Lecture 08 - Loops
  * Lecture 09 - Challenge: 1 million iterations
  * Lecture 10 - Comments
