@@ -1,6 +1,16 @@
-# String
+# String literals
 my_string = "Hello World"
 print(type(my_string))
+
+# String escape characters \'
+
+# Example 1
+# Wrong
+#print('She's been to Japan twice')
+# Example 2
+# Correct
+print('She\'s been to Japan twice.')
+
 
 # Number
 ## Integer
@@ -12,24 +22,20 @@ print(type(int(my_string_int)))
 # ValueError | Error converting non-integer string
 print(type(int(my_string)))
 
-
 # Float
+# value containing a decimal point
 my_float = 10.0
-
-# List
-# Find each element of the list through and index
-my_list = ["Hello", "World"]
-print(type(my_list))
+print(type(my_float))
 
 
-# Tuple
-## Imutable
-## Once establisted
-my_tuple = (0,1)
+# Boolean
+# Value that is True or False
+my_true = True
+print(type(my_true))
+my_false = False
+print(type(my_false))
 
-# Dictionary
-#
-my_dictionary = {
-    "message": "Hello World!",
-    "number": 80
-}
+
+
+
+
