@@ -21,7 +21,7 @@ Contents
  * Lecture 14 - Challenge: Hello urllib 
  * Lecture 15 - String formatting
  * Lecture 16 - File Input and Output
- * Lecture 17 - Challenge: Hello urllib
+ * Lecture 17 - Challenge: almost BIG DATA!!
  * Lecture 18 - Objects
  * Lecture 19 - Modules
  * Lecture 20 - Challenge: Flask Server
