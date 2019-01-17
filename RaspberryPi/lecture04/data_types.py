@@ -3,7 +3,6 @@ my_string = "Hello World"
 print(type(my_string))
 
 # String escape characters \'
-
 # Example 1
 # Wrong
 #print('She's been to Japan twice')
@@ -11,9 +10,7 @@ print(type(my_string))
 # Correct
 print('She\'s been to Japan twice.')
 
-
-# Number
-## Integer
+# Integer
 my_int = 80
 print(type(my_int))
 # Converting string to integer
