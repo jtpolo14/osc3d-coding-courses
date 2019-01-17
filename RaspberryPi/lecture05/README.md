@@ -28,8 +28,8 @@ Requirement(s)
 
 Step(s)
  
-* Create a python file named my_printer.py
-* Copy and paste the code provided from lecture02/printer.py
+* Create a python file named printer.py
+* Copy and paste the code provided from lecture05/printer.py
 * Run the program by, typing the following command and press Enter:
 ```
 python3 printer.py
@@ -59,4 +59,4 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* Coming Soon!!
+* https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture06
