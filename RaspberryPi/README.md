@@ -11,12 +11,17 @@ Contents
  * Lecture 04 - Data Types
  * Lecture 05 - Input
  * Lecture 06 - Flow Control
- * Lecture 07 - Loops
- * Lecture 08 - Comments
- * Lecture 09 - Nested Loops
- * Lecture 10 - Lists and Dictionaries
- * Lecture 11 - Functions
- * Lecture 12 - String formatting
- * Lecture 13 - File Input and Output
- * Lecture 14 - Objects
- * Lecture 15 - Modules
+ * Lecture 07 - Challenge: ATM
+ * Lecture 08 - Loops
+ * Lecture 09 - Challenge: 1 million iterations
+ * Lecture 10 - Comments
+ * Lecture 11 - Nested Loops
+ * Lecture 12 - Lists and Dictionaries 
+ * Lecture 13 - Functions
+ * Lecture 14 - Challenge: Hello urllib 
+ * Lecture 15 - String formatting
+ * Lecture 16 - File Input and Output
+ * Lecture 17 - Challenge: almost BIG DATA!!
+ * Lecture 18 - Objects
+ * Lecture 19 - Modules
+ * Lecture 20 - Challenge: Flask Server
