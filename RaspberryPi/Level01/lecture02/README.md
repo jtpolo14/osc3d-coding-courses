@@ -52,4 +52,4 @@ Other resources:
 What's next?
 --------------------
 
-* [Lecture 03 - Math](https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture03)
+* [Lecture 03 - Math]

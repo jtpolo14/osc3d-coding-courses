@@ -48,7 +48,8 @@ Help
     * https://realpython.com/python-data-types/
     * https://www.programiz.com/python-programming/variables-datatypes
     
----
+--------------------
 What's next?
----
-Coming soon!
+--------------------
+
+* [Lecture 05 - Input]

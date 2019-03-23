@@ -62,4 +62,4 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* [Lecture 2 - Inputs and Outputs (I/O)](https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture02)
+* [Lecture 2 - Inputs and Outputs (I/O)]

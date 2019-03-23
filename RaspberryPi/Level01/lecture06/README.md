@@ -1,42 +1,33 @@
-# Lecture 08 - Loops
+# Lecture 06 - Comments
 
 --------------------
 Description
 -------------------- 
 You will learn how to:
-* Write loops
-* loop through objects
-* Create and use Arrays
-* Write the 2 types of loops: 'for' and 'while'
-* 
-* Use logical operators (AND, OR, NOT)
+* Create single line comments
+* Create multiple line comments
 
 --------------------
 Content
 -------------------- 
 
 Terminology
-* Loop - method to reduce redundant code by repeating until a condition is meet. 
+* Comments - text withing a program that is not used by the computer, comments are only for humans to understand code
 
 --------------------
 Lab
 -------------------- 
 
 Requirement(s)
-* Create a lookup program that accepts user input and exits when the word 'quit' is entered.
+* Create a program that uses both single and multiple line comments.
 
 Step(s)
- 
-* Create a python file named grader.py
-* Copy and paste the code provided from lecture06/grader.py
+* Create a python file named comments.py
+* Copy and paste the code provided from lecture06/comments.py
 * Run the program by, typing the following command and press Enter:
 ```
-python3 grader.py
-```
-* When prompted 'What is the test score?', type any number and press Enter:
-```
-What is the test score? 99
-99 A
+python3 comments.py
+THIS IS NOT A COMMENT
 ```
 
 --------------------
@@ -49,9 +40,13 @@ If you run into issues with the above lab, here are some helpful tips to try:
 * Be sure to type the terminal command exactly as shown, then press Enter
 
 Other resources:
-* https://www.youtube.com/watch?v=u8g9scXeAcI&t=839s
+
+
+* https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-python-3
+* https://docs.python.org/3/tutorial/introduction.html
 
 --------------------
 What's next?
 --------------------
-* Coming Soon!!
+
+* [Lecture 07 - Challenge: ATM]

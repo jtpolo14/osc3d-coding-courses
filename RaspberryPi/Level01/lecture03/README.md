@@ -61,4 +61,4 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* Coming soon!!
+* [Lecture 04 - Data Types]
