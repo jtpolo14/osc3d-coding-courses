@@ -1,4 +1,4 @@
-# Lecture 06 - Flow Control
+# Lecture 08 - Flow Control
 
 --------------------
 Description
@@ -68,4 +68,4 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* Coming Soon!!
+* [Lecture 09 - Loops]

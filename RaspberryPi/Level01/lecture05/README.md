@@ -59,4 +59,5 @@ Other resources:
 --------------------
 What's next?
 --------------------
-* https://github.com/jtpolo14/osc3d-coding-courses/tree/master/RaspberryPi/lecture06
+
+* [Lecture 06 - Comments]

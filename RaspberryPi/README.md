@@ -10,11 +10,11 @@ Contents
  * Lecture 03 - Math
  * Lecture 04 - Data Types
  * Lecture 05 - Input
- * Lecture 06 - Flow Control
+ * Lecture 06 - Comments
  * Lecture 07 - Challenge: ATM
- * Lecture 08 - Loops
- * Lecture 09 - Challenge: 1 million iterations
- * Lecture 10 - Comments
+ * Lecture 08 - Flow Control
+ * Lecture 09 - Loops
+ * Lecture 10 - Challenge: 1 million iterations
  * Lecture 11 - Nested Loops
  * Lecture 12 - Lists and Dictionaries 
  * Lecture 13 - Functions
