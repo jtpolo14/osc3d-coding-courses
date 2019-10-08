@@ -21,9 +21,9 @@ answer_exponent = number_one ** number_two
 answer_modulo = number_one % number_two
 
 # print the answers
-print("number_one + number_two =", answer_addition)
-print("number_one - number_two =", answer_subtraction)
-print("number_one * number_two =", answer_multiplication)
-print("number_one / number_two =", answer_division)
-print("number_one ** number_two =", answer_exponent)
-print("number_one % number_two =", answer_modulo)
+print('number_one + number_two =', answer_addition)
+print('number_one - number_two =', answer_subtraction)
+print('number_one * number_two =', answer_multiplication)
+print('number_one / number_two =', answer_division)
+print('number_one ** number_two =', answer_exponent)
+print('number_one % number_two =', answer_modulo)
