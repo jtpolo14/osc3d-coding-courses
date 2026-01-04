@@ -8,6 +8,7 @@ string_number1 = input('Enter a number: ')
 # will be stored in a variable named string_number2
 string_number2 = input('Enter a number: ')
 
+# replace string_number1 and string_number2 with numbers inputted 
 integer_answer = int(string_number1) + int(string_number2)
 
 # use the built-in python function print to output
