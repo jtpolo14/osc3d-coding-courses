@@ -1,11 +1,15 @@
 # String literals
-my_string = "Hello World"
-print(type(my_string))
+# To identify the data type, you write print(type).
+hello_world_string = "Hello World"
+print(type(hello_world_string))
 
 # String escape characters \'
 # Example 1
 # Wrong
+# This is wrong because you can't have three single quotes on one command line. 
+# You either have to use double quotes for the entire command line or use single quotes, and when you need an apostrophe, you add a backslash, then an apostrophe. The following function will fail. 
 #print('She's been to Japan twice')
+
 # Example 2
 # Correct
 print('She\'s been to Japan twice.')
@@ -16,8 +20,9 @@ print(type(my_int))
 # Converting string to integer
 my_string_int = "80"
 print(type(int(my_string_int)))
-# ValueError | Error converting non-integer string
-print(type(int(my_string)))
+
+# When you run this line, you'll get a ValueError because converting a string to an integer requires numbers. You can't convert words into numbers.
+print(int(hello_world_string))
 
 # Float
 # value containing a decimal point
